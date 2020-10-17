@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Traits;
+namespace IFrankSmith\Sluggable\Traits;
 
 use Illuminate\Support\Str;
 use Illuminate\Database\Eloquent\Model;
