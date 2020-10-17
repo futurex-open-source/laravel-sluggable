@@ -1,0 +1,24 @@
+{
+    "name": "ifranksmith/laravel-sluggable",
+    "description": "Laravel slug maker trait",
+    "license": "MIT",
+    "authors":[
+        {
+            "name": "Frank Smith",
+            "email": "favescsskr@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "IFrankSmith\\Sluggable\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "IFrankSmith\\Sluggable\\SluggableServiceProvider"
+            ]
+        }
+    }
+}
