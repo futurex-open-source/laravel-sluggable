@@ -2,7 +2,7 @@
 
 return [
     "model" => [
-        "column" => "name",
-        "source" => "slug"
+        "column" => "slug",
+        "source" => "name"
     ]
 ];
