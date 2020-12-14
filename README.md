@@ -7,9 +7,6 @@
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Testing](#testing)
-- [Change log](#change-log)
-- [License](#license)
 
 ## Installation
 
@@ -67,7 +64,7 @@ class Posts extends Model
 That's it ... your model is now **"sluggable"**!
 
 
-
+<!-- 
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
@@ -85,4 +82,4 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [link-code-quality]: https://scrutinizer-ci.com/g/ChristianKuri/laravel-favorite
 [link-downloads]: https://packagist.org/packages/ChristianKuri/laravel-favorite
 [link-author]: https://github.com/ChristianKuri
-[link-contributors]: ../../contributors
+[link-contributors]: ../../contributors -->
