@@ -13,7 +13,7 @@
 1) Install the package via Composer
 
 ```bash
-$ composer require ifranksmith/laravel-favorite
+$ composer require ifranksmith/laravel-sluggable
 ```
 
 2) In Laravel >=5.5 this package will automatically get registered. For older versions, update your `config/app.php` by adding an entry for the service provider.
